@@ -117,8 +117,6 @@ public class AdminSystem {
                 ui.info("Article number already exists. Try again.");
                 continue;
             }
-
-            // Annars är det giltigt
             return articleNumber;
         }
     }

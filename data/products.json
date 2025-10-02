@@ -1,0 +1,31 @@
+[ {
+  "type" : "Decoration",
+  "articleNumber" : "100",
+  "title" : "Ljusstake",
+  "price" : 400.0,
+  "description" : "Vitt ljusstake"
+}, {
+  "type" : "Fashion",
+  "articleNumber" : "102",
+  "title" : "Byxa",
+  "price" : 300.0,
+  "description" : "Röda byxor"
+}, {
+  "type" : "Household",
+  "articleNumber" : "103",
+  "title" : "Avfallspåsar",
+  "price" : 50.0,
+  "description" : "Rosa avfallspåsar"
+}, {
+  "type" : "Decoration",
+  "articleNumber" : "104",
+  "title" : "Skål",
+  "price" : 400.0,
+  "description" : "Rosa skål"
+}, {
+  "type" : "Fashion",
+  "articleNumber" : "105",
+  "title" : "Kofta",
+  "price" : 300.0,
+  "description" : "Lila kofta"
+} ]

@@ -20,10 +20,10 @@ public class JoptionPaneUI implements UI {
                 null,
                 "Choose an option",
                 "Menu",
-                JOptionPane.QUESTION_MESSAGE, // ikon med frågetecken
-                null, // ingen extra ikon
+                JOptionPane.QUESTION_MESSAGE, 
+                null, 
                 options,
-                options[0] // defaultvärde (första elementet)
+                options[0] // defaultvärde 
         );
         return String.valueOf(java.util.Arrays.asList(options).indexOf(choice) + 1);
         //konverterar arrayen till en lista, hittar vilket element användaren valde

@@ -26,6 +26,6 @@ public class JoptionPaneUI implements UI {
                 options[0] // defaultvärde 
         );
         return String.valueOf(java.util.Arrays.asList(options).indexOf(choice) + 1);
-        //konverterar arrayen till en lista, hittar vilket element användaren valde
+        
     }
 }
